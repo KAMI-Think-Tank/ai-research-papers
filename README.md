@@ -9,6 +9,8 @@ A collection of our top AI research papers and educational videos/books/resource
 ## Agents
 - [The AI Scientist](https://sakana.ai/ai-scientist/)
 - [UI-TARS: Pioneering Automated GUI Interaction with Native Agents](https://arxiv.org/pdf/2501.12326)
+- [LLM Multi-Agent Systems: Challenges and Open Problems](https://arxiv.org/pdf/2402.03578)
+- [Multi-Agent Collaboration Mechanisms: A Survey of LLMs](https://arxiv.org/pdf/2501.06322)
 
 ## Reasoning
 - [s1: Simple test-time scaling](https://arxiv.org/pdf/2501.19393)
