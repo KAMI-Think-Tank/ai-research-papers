@@ -4,6 +4,7 @@ A collection of our top AI research papers and educational videos/books/resource
 ## LLMs
 - [Not All Tokens Are What You Need](https://openreview.net/pdf?id=0NMzBwqaAJ)
 - [DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model](https://arxiv.org/pdf/2405.04434)
+- [Large Language Models Must Be Taught to Know What They Don't Know](https://arxiv.org/abs/2406.08391v1)
 
 ## Agents
 - [The AI Scientist](https://sakana.ai/ai-scientist/)
@@ -20,9 +21,13 @@ A collection of our top AI research papers and educational videos/books/resource
 
 ## RL
 - [Direct Preference Optimization: Your Language Model is Secretly a Reward Model](https://arxiv.org/pdf/2305.18290)
+- [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://arxiv.org/pdf/2501.12948)
 
 ## Responsible AI
 - [Constitutional Classifiers: Defending against Universal Jailbreaks across Thousands of Hours of Red Teaming](https://arxiv.org/pdf/2501.18837)
+- [VLATTACK: Multimodal Adversarial Attacks on Vision-Language Tasks via Pre-trained Models](https://arxiv.org/pdf/2310.04655)
+- [Set-level Guidance Attack: Boosting Adversarial Transferability of Vision-Language Pre-training Models](https://arxiv.org/pdf/2307.14061)
+- [Whose Opinions Do Language Models Reflect?](https://arxiv.org/abs/2303.17548)
 
 ### Benchmarks
 - [The PRISM Alignment Dataset: What Participatory, Representative and Individualised Human Feedback Reveals About the Subjective and Multicultural Alignment of Large Language Models](https://openreview.net/pdf?id=DFr5hteojx)
