@@ -1,4 +1,4 @@
-# AI Research Papers
+# AI Research Papers (2024-2025)
 A collection of our top AI research papers and educational videos/books/resources of interest for 2024-2025.
 
 ## LLMs
