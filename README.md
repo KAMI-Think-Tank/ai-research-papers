@@ -24,6 +24,7 @@ A collection of our top AI research papers and educational videos/books/resource
 ## RL
 - [Direct Preference Optimization: Your Language Model is Secretly a Reward Model](https://arxiv.org/pdf/2305.18290)
 - [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://arxiv.org/pdf/2501.12948)
+- [RL-GPT: Integrating Reinforcement Learning and Code-as-policy](https://openreview.net/pdf?id=LEzx6QRkRH)
 
 ## Responsible AI
 - [Constitutional Classifiers: Defending against Universal Jailbreaks across Thousands of Hours of Red Teaming](https://arxiv.org/pdf/2501.18837)
@@ -33,6 +34,7 @@ A collection of our top AI research papers and educational videos/books/resource
 
 ### Benchmarks
 - [The PRISM Alignment Dataset: What Participatory, Representative and Individualised Human Feedback Reveals About the Subjective and Multicultural Alignment of Large Language Models](https://openreview.net/pdf?id=DFr5hteojx)
+- [Embodied Agent Interface: Benchmarking LLMs for Embodied Decision Making](https://proceedings.neurips.cc/paper_files/paper/2024/file/b631da756d1573c24c9ba9c702fde5a9-Paper-Datasets_and_Benchmarks_Track.pdf)
 
 ## Online Courses, Books, Videos
 - Andrej Karpathy [Deep Dive into LLMs like ChatGPT](https://www.youtube.com/watch?v=7xTGNNLPyMI)
